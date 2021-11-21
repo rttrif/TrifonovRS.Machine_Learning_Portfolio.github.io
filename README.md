@@ -56,11 +56,58 @@ This portfolio was created in the process of studying machine learning to illust
 
 #### 7. Random Forest Classification
 
+---
+---
 
+## CLUSTERING
 
+#### 1. K-Means
 
+#### 2. Hierarchical Clustering
 
+---
+---
 
+## ASSOCIATION RULE LEARNING
+
+#### 1. Apriori
+
+#### 2. Eclat
+
+---
+---
+
+## REINFORCEMENT LEARNING
+
+#### 1. Upper Confidence Bound
+
+#### 2. Thompson Sampling
+
+---
+---
+
+## DIMENSIONALITY REDUCTION
+
+#### 1. PCA
+
+#### 2. LDA
+
+#### 3. Kernel
+
+#### 4. PCA
+
+---
+---
+
+## MODEL SELECTION & BOOSTING
+
+#### 1. k-fold Cross Validation
+
+#### 2. Parameter Tuning
+
+#### 3. Grid Search
+
+#### 4. XGBoost
 
 
 
