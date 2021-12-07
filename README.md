@@ -27,7 +27,7 @@ This portfolio was created in the process of studying machine learning to illust
 
 #### 1. Simple Linear Regression: [Project 1: COVID vaccination vs. mortality](https://github.com/rttrif/TrifonovRS.Machine_Learning_Portfolio.github.io/tree/main/REGRESSION/Project%201:%20COVID%20vaccination%20vs.%20mortality)
 
-#### 2. Multiple Linear Regression [Project 2: Car Price Prediction](://github.com/rttrif/TrifonovRS.Machine_Learning_Portfolio.github.io/tree/main/REGRESSION/Project%202:%20Car%20Price%20Prediction)
+#### 2. Multiple Linear Regression [Project 2: Car Price Prediction](https://github.com/rttrif/TrifonovRS.Machine_Learning_Portfolio.github.io/tree/main/REGRESSION/Project%202:%20Car%20Price%20Prediction)
 
 #### 3. Polynomial Regression
 
