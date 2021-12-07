@@ -37,7 +37,7 @@ https://www.kaggle.com/sinakaraji/simple-linear-regression-covid-vaccination
 
 ### Results
 
-1. [ ] [**Simple Linear Regression**]()
+1. [x] [**Simple Linear Regression**](https://github.com/rttrif/TrifonovRS.Machine_Learning_Portfolio.github.io/blob/main/REGRESSION/Project%201:%20COVID%20vaccination%20vs.%20mortality/Simple_Linear_Regression.ipynb)
 
 
 
