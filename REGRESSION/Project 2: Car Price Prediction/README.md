@@ -1,6 +1,6 @@
 ## PROJECT 2: Car Price Prediction
 
-> ### TASK: Stady Multiple Linear Regression
+> ### TASK: Study Multiple Linear Regression
 > 
 
 ### Project goals and objectives
