@@ -1,7 +1,7 @@
 ## PROJECT 1: COVID vaccination vs. mortality
 
 
-> ### TASK: Stady Simple Linear Regression
+> ### TASK: Study Simple Linear Regression
 
 
 ### Project goals and objectives
