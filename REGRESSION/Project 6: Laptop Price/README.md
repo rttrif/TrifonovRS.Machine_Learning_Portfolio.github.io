@@ -18,18 +18,18 @@
 
 [Laptop Price](https://www.kaggle.com/muhammetvarl/laptop-price)
 
-1 Company- String -Laptop Manufacturer
-2 Product -String -Brand and Model
-3 TypeName -String -Type (Notebook, Ultrabook, Gaming, etc.)
-4 Inches -Numeric- Screen Size
-5 ScreenResolution -String- Screen Resolution
-6 Cpu- String -Central Processing Unit (CPU)
-7 Ram -String- Laptop RAM
-8 Memory -String- Hard Disk / SSD Memory
-9 GPU -String- Graphics Processing Units (GPU)
-10 OpSys -String- Operating System
-11 Weight -String- Laptop Weight
-12 Price_euros -Numeric- Price (Euro)
+1. Company- String -Laptop Manufacturer
+1. Product -String -Brand and Model
+1. TypeName -String -Type (Notebook, Ultrabook, Gaming, etc.)
+1. Inches -Numeric- Screen Size
+1. ScreenResolution -String- Screen Resolution
+1. Cpu- String -Central Processing Unit (CPU)
+1. Ram -String- Laptop RAM
+1. Memory -String- Hard Disk / SSD Memory
+1. GPU -String- Graphics Processing Units (GPU)
+1. OpSys -String- Operating System
+1. Weight -String- Laptop Weight
+1. Price_euros -Numeric- Price (Euro)
 
 
 ### Results
