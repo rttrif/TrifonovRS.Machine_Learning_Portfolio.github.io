@@ -31,9 +31,9 @@ This portfolio was created in the process of studying machine learning to illust
 
 #### 3. Polynomial Regression
 
-#### 4. Linear Regression with *TensorFlow* (Subclassing API)
+#### 4. Linear Regression with TensorFlow (Subclassing API)
 
-#### 5. Linear Regression with *Pytorch*
+#### 5. Linear Regression with Pytorch
 
 #### 6. SVR
 
