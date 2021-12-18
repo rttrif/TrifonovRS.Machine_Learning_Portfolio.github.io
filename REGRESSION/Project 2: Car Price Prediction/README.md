@@ -43,8 +43,9 @@ We are required to model the price of cars with the available independent variab
 
 ### References
 
-1. [Simple linear regression (Wikipedia)](https://en.wikipedia.org/wiki/Simple_linear_regression)
-2. [Linear Regression Explained](https://towardsdatascience.com/linear-regression-explained-1b36f97b7572)
-3. [Simple Linear Regression](https://www.jmp.com/en_my/statistics-knowledge-portal/what-is-regression.html)
-4. [Linear Regression — explained in simple terms!!](https://medium.com/analytics-vidhya/linear-regression-explained-in-simple-terms-yagnik-8f9eccb680ec)
+1. [Multiple Linear Regression (MLR)](https://www.investopedia.com/terms/m/mlr.asp)
+2. [An introduction to multiple linear regression](https://www.scribbr.com/statistics/multiple-linear-regression/)
+3. [Understanding Multiple Regression](https://towardsdatascience.com/understanding-multiple-regression-249b16bde83e)
+4. [Multiple Linear Regression](https://milnepublishing.geneseo.edu/natural-resources-biometrics/chapter/chapter-8-multiple-linear-regression/)
+5. [A Note on Multiple Linear Regression](https://www.analyticssteps.com/blogs/multiple-linear-regression)
 
