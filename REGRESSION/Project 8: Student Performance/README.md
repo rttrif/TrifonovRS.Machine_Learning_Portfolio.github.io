@@ -6,7 +6,7 @@
 
 #### Project goal
 
-- Studying **Random Forest Regression **
+- Studying **Random Forest Regression**
 
 #### Project objectives
 
