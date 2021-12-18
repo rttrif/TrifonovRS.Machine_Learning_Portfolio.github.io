@@ -31,15 +31,15 @@ This portfolio was created in the process of studying machine learning to illust
 
 #### 3. Polynomial Regression: [Project 3: Electric Motor Temperature]()
 
-#### 4. Linear Regression with TensorFlow (Subclassing API): [Project 4: ]()
+#### 4. Linear Regression with TensorFlow (Subclassing API): [Project 4: LondonAirBNB]()
 
-#### 5. Linear Regression with Pytorch: [Project 5: ]()
+#### 5. Linear Regression with Pytorch: [Project 5: Uber and Lyft Dataset Boston]()
 
-#### 6. SVR: [Project 6: ]()
+#### 6. SVR: [Project 6: Laptop Price]()
 
-#### 7. Decision Tree Regression: [Project 7: ]()
+#### 7. Decision Tree Regression: [Project 7: White Wine Quality]()
 
-#### 8. Random Forest Regression: [Project 8: ]()
+#### 8. Random Forest Regression: [Project 8: Student Performance]()
 
 ---
 ---
