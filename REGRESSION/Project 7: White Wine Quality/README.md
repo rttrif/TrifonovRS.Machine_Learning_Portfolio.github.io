@@ -1,4 +1,4 @@
-## PROJECT 6: White Wine Quality
+## PROJECT 7: White Wine Quality
 
 > ### TASK: Study Decision Tree Regression
 
