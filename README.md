@@ -31,11 +31,15 @@ This portfolio was created in the process of studying machine learning to illust
 
 #### 3. Polynomial Regression
 
-#### 4. SVR
+#### 4. Linear Regression with TensorFlow (Subclassing API)
 
-#### 5. Decision Tree Regression
+#### 5. Linear Regression with Pytorch
 
-#### 6. Random Forest Regression
+#### 6. SVR
+
+#### 7. Decision Tree Regression
+
+#### 8. Random Forest Regression
 
 ---
 ---
