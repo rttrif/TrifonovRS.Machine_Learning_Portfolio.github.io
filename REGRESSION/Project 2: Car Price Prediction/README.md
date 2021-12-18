@@ -37,7 +37,7 @@ We are required to model the price of cars with the available independent variab
 
 ### Results
 
-1. [x] [**Multiple Linear Regression**]()
+1. [ ] [**Multiple Linear Regression**]()
 
 
 
