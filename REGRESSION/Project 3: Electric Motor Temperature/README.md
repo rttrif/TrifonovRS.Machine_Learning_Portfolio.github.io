@@ -7,45 +7,45 @@
 
 #### Project goal
 
-- Studying **Multiple Linear Regression**
+- Studying **Polynomial Linear Regression**
 
 #### Project objectives
 
 1. Explore and prepare data 
-2. Build multiple linear regression model
+2. Build polynomial linear regression model
 
 
 ### Dataset
 
-[Car Price Prediction](https://www.kaggle.com/hellbuoy/car-price-prediction)
+[Electric Motor Temperature](https://www.kaggle.com/wkirgsn/electric-motor-temperature)
 
 **DATASET INFORMATION:**
 
-**Problem Statement**
+**Context**
+The data set comprises several sensor data collected from a permanent magnet synchronous motor (PMSM) deployed on a test bench. The PMSM represents a german OEM's prototype model. Test bench measurements were collected by the LEA department at Paderborn University.
 
-A Chinese automobile company Geely Auto aspires to enter the US market by setting up their manufacturing unit there and producing cars locally to give competition to their US and European counterparts.
+**Content**
+All recordings are sampled at 2 Hz. The data set consists of multiple measurement sessions, which can be distinguished from each other by column "profile_id". A measurement session can be between one and six hours long.
 
-They have contracted an automobile consulting company to understand the factors on which the pricing of cars depends. Specifically, they want to understand the factors affecting the pricing of cars in the American market, since those may be very different from the Chinese market. The company wants to know:
+The motor is excited by hand-designed driving cycles denoting a reference motor speed and a reference torque.
+Currents in d/q-coordinates (columns "id" and iq") and voltages in d/q-coordinates (columns "ud" and "uq") are a result of a standard control strategy trying to follow the reference speed and torque.
+Columns "motor_speed" and "torque" are the resulting quantities achieved by that strategy, derived from set currents and voltages.
 
-Which variables are significant in predicting the price of a car
-How well those variables describe the price of a car
-Based on various market surveys, the consulting firm has gathered a large data set of different types of cars across the America market.
+Most driving cycles denote random walks in the speed-torque-plane in order to imitate real world driving cycles to a more accurate degree than constant excitations and ramp-ups and -downs would.
 
-**Business Goal**
-We are required to model the price of cars with the available independent variables. It will be used by the management to understand how exactly the prices vary with the independent variables. They can accordingly manipulate the design of the cars, the business strategy etc. to meet certain price levels. Further, the model will be a good way for management to understand the pricing dynamics of a new market.
 
 
 ### Results
 
-1. [ ] [**Multiple Linear Regression**]()
+1. [ ] [**Polynomial Linear Regression**]()
 
 
 
 ### References
 
-1. [Multiple Linear Regression (MLR)](https://www.investopedia.com/terms/m/mlr.asp)
-2. [An introduction to multiple linear regression](https://www.scribbr.com/statistics/multiple-linear-regression/)
-3. [Understanding Multiple Regression](https://towardsdatascience.com/understanding-multiple-regression-249b16bde83e)
-4. [Multiple Linear Regression](https://milnepublishing.geneseo.edu/natural-resources-biometrics/chapter/chapter-8-multiple-linear-regression/)
-5. [A Note on Multiple Linear Regression](https://www.analyticssteps.com/blogs/multiple-linear-regression)
+1. [Polynomial regression](https://en.wikipedia.org/wiki/Polynomial_regression)
+2. [Machine Learning: Polynomial Regression with Python](https://towardsdatascience.com/machine-learning-polynomial-regression-with-python-5328e4e8a386)
+3. [All you need to know about Polynomial Regression](https://www.analyticsvidhya.com/blog/2021/07/all-you-need-to-know-about-polynomial-regression/)
+4. [Understanding Polynomial Regression](https://medium.com/analytics-vidhya/understanding-polynomial-regression-5ac25b970e18)
+5. [Introduction to Polynomial Regression Analysis](https://serokell.io/blog/polynomial-regression-analysis)
 
