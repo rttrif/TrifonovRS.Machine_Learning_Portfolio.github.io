@@ -12,7 +12,7 @@
 #### Project objectives
 
 1. Explore and prepare data 
-2. Build linear regression model
+2. Build linear regression model with subclassing API
 
 
 ### Dataset
