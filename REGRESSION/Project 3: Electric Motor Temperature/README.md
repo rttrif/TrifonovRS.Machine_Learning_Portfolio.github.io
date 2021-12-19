@@ -37,7 +37,7 @@ Most driving cycles denote random walks in the speed-torque-plane in order to im
 
 ### Results
 
-1. [ ] [**Polynomial Linear Regression**]()
+1. [x] [**Polynomial Linear Regression**](https://github.com/rttrif/TrifonovRS.Machine_Learning_Portfolio.github.io/blob/main/REGRESSION/Project%203:%20Electric%20Motor%20Temperature/Polynomial_Regression.ipynb)
 
 
 
