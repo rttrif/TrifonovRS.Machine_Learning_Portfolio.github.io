@@ -37,7 +37,7 @@ We are required to model the price of cars with the available independent variab
 
 ### Results
 
-1. [ ] [**Multiple Linear Regression**]()
+1. [x] [**Multiple Linear Regression**](https://github.com/rttrif/TrifonovRS.Machine_Learning_Portfolio.github.io/blob/main/REGRESSION/Project%202:%20Car%20Price%20Prediction/Multiple_Linear_Regression.ipynb)
 
 
 
